@@ -9,18 +9,13 @@ section.repository-list {
     list-style: none;
 
     li {
-      padding: 8px;
-      border-radius: 10px;
-      background-color: #8693ab;
-      width: 50%;
-
       & + li {
-        margin-top: 10px;
+        margin-top: 20px;
       }
 
       p {
         font-size: 14px;
-        color: #212227;
+        color: #444;
         margin-top: 8px;
       }
 
@@ -28,7 +23,7 @@ section.repository-list {
         display: inline-block;
         margin-top: 16px;
         text-decoration: none;
-        color: #bdd4e7;
+        color: #8257e6;
       }
     }
   }
